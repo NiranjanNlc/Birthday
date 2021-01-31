@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="username">username</string>
+    <string name="button">Button</string>
+    <string name="enter_your_friend_name">Enter your friend name</string>
+    <string name="umesh_khatani">umesh khatani</string>
+    <string name="submit">Submit</string>
+</resources>
